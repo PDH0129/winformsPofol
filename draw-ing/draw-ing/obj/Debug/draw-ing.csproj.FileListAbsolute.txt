@@ -1,0 +1,11 @@
+D:\study C#\draw-ing\draw-ing\bin\Debug\draw-ing.exe.config
+D:\study C#\draw-ing\draw-ing\bin\Debug\draw-ing.exe
+D:\study C#\draw-ing\draw-ing\bin\Debug\draw-ing.pdb
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.csproj.AssemblyReference.cache
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.csproj.SuggestedBindingRedirects.cache
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw_ing.Form1.resources
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw_ing.Properties.Resources.resources
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.csproj.GenerateResource.cache
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.csproj.CoreCompileInputs.cache
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.exe
+D:\study C#\draw-ing\draw-ing\obj\Debug\draw-ing.pdb
